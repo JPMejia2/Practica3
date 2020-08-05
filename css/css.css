@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fondo{
+   height: 840px;
+   width: 100%;
+   background-color: #F89219 ;
+   margin-top: 50px;
+   padding-top: 20px;
+    text-align: inherit;
+}
+.cuadro{
+    height: 610px;
+    width: 1200px;
+    background-color: #F89219;
+    margin-left: 356px;
+    margin-top: 100px;
+}
+.cuadro p{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-top: 50px;
+    margin: 0;
+}
+.nombre1{
+    width: 100%;
+    height: 55px;
+    display: block;
+    border: white 1px solid;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+.nombre2{
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: auto;
+    border: white 1px solid;
+    text-align: center;
+    padding-top: 15px;
+}
+.nombre3{
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: auto;
+    border: white 1px solid;
+    text-align: center;
+    padding-top: 15px;
+}
+.nombre4{
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: auto;
+    border: white 1px solid;
+    text-align: center;
+    padding-top: 15px;
+}
+.nombre5{
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: auto;
+    border: white 1px solid;
+    text-align: center;
+    padding-top: 15px;
+}
+.nombre6{
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: auto;
+    border: white 1px solid;
+    text-align: center;
+    padding-top: 15px;
+}
+.nombre7{
+    width: 100%;
+    height: 55px;
+    display: block;
+    margin: auto;
+    border: white 1px solid;
+    text-align: center;
+    padding-top: 15px;
+}
+.cuadro2 h1{
+    font-size: 32px;
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 10px;
+    display: inline;
+    margin-top: 20px;
+}
+.cuadro2 h2{
+    font-size: 32px;
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 470px;
+    display: inline;
+    margin-top: 20px;
+}
+.cuadro2 h3{
+    font-size: 32px;
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-left: 90px;
+    display: inline;
+    margin-top: 20px;
+}
+.cuadro3 h1{
+    font-size: 32px;
+    font-family: serif;
+    color: #ffffff;
+    display: inline;
+    margin-top: 20px;
+}
+.cuadro3 h2{
+    font-size: 32px;
+    font-family: serif;
+    color: #ffffff;
+    margin-left: 600px;
+    display: inline;
+    margin-top: 20px;
+}
+.cuadro3 h3{
+    font-size: 32px;
+    font-family: serif;
+    color: #ffffff;
+    margin-left: 220px;
+    display: inline;
+    margin-right: 70px;
+    margin-top: 20px;
+}
